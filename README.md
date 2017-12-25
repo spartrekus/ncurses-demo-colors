@@ -1,5 +1,5 @@
 # ncurses-demo-colors
-Demo of colors (bold, reverse,..) for NCURSES, compilable with tiny TCC
+Demo of colors (bold, reverse,..) for the console for NCURSES, compilable with tiny TCC
 
 
 
